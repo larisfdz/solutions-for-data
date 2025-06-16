@@ -1,0 +1,14 @@
+{
+    "replenishment_reports": {
+        "reports":
+        [
+            {"report_name": {
+                "name_id": "report schedule id found in url of the specific schedule",
+                "name_rus": "to show in the TG message",
+                "connection": "connection_name",
+                "query": "/updated_dttm.sql to check the latest data update"
+            }
+        }
+        ]
+    }
+}
